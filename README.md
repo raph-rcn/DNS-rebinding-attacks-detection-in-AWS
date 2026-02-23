@@ -352,9 +352,3 @@ This tool downloads and scans ALB access logs that can contain:
 * sometimes query strings (depending on your app)
 
 Handle the output directory as sensitive incident-response data.
-
----
-
-## License
-
-Add your preferred license here (e.g., MIT/Apache-2.0) before publishing.
