@@ -1,5 +1,7 @@
 # GuardDuty `MetadataDNSRebind` Triage Script
 
+A DNS rebinding attack is a technique to turn an internet-reachable web surface into a pivot that can reach internal-only addresses that were never meant to be accessible from outside.
+
 `gd_metadata_dnsrebind_triage.sh` is a command-line triage tool that gathers AWS evidence to help you decide whether a GuardDuty finding of type:
 
 * `UnauthorizedAccess:EC2/MetadataDNSRebind`
